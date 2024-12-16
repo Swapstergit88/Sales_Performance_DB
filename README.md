@@ -28,16 +28,8 @@ To run and interact with this dashboard, you will need:
 The ERD below outlines the relationships between the key entities in the sales performance dataset:
 
 markdown
-+-----------------+       +-----------------+       +-----------------+
-|    Country      |       |   Subcategory   |       |     Sales       |
-+-----------------+       +-----------------+       +-----------------+
-| Country_ID (PK) |<----->| Subcategory_ID  |<----->| Sales_ID (PK)   |
-| Country_Name    |       | Subcategory_Name|       | Country_ID (FK) |
-+-----------------+       +-----------------+       | Subcategory_ID  |
-                                                    | Sales_Value     |
-                                                    | Profit_Value    |
-                                                    | Order_Date      |
-                                                    +-----------------+
+![ERD](https://github.com/user-attachments/assets/a182a043-d294-4cb4-a123-066ccaa01630)
+
 
 
 ## Description of the Image
