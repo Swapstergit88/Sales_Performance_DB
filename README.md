@@ -27,7 +27,7 @@ To run and interact with this dashboard, you will need:
 ## Entity-Relationship Diagram (ERD)
 The ERD below outlines the relationships between the key entities in the sales performance dataset:
 
-markdown
+
 ![ERD](https://github.com/user-attachments/assets/a182a043-d294-4cb4-a123-066ccaa01630)
 
 
